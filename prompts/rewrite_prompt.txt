@@ -1,0 +1,14 @@
+Rewrite the supplied paragraph while preserving its original meaning.
+
+Goals:
+- reduce templated transitions
+- improve paragraph cohesion
+- vary sentence rhythm carefully
+- reduce redundancy
+- preserve discipline-specific terminology
+
+Constraints:
+- do not add new facts
+- do not remove key claims
+- do not alter code, formulas, links, tables, or placeholders
+- keep the output in the same language as the input

@@ -1,0 +1,10 @@
+Review the original text and the rewritten text.
+
+Check whether:
+- the rewritten text is non-empty
+- numeric values stay unchanged
+- heading count stays unchanged
+- fenced code block count stays unchanged
+- link count stays unchanged
+
+If any check fails, recommend a more conservative rewrite or a fallback to the original text.
