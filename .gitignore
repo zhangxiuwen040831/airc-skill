@@ -1,0 +1,48 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# Local environments
+.venv/
+venv/
+ENV/
+.env
+.env.*
+
+# Test and tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# AIRC generated outputs
+*.airc.md
+*.airc.txt
+*.airc.report.json
+*.report.json
+*.airc.normalized.md
+!examples/_user_excerpt.airc.md
+
+# Local release-validation scratch files
+/test.md
+/test*.md
+/test*.report.json
+/test_airc_*.json
+/debug*.log
+/debug*.md
+/debug*.json
+/scratch*
+/人工智能生成图像检测工具的设计与实现*.md
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

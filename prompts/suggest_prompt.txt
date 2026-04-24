@@ -1,0 +1,9 @@
+Identify paragraphs that are too vague for academic or article writing.
+
+Only provide suggestions such as:
+- add a real year or time range
+- add a real citation or source
+- add a concrete case
+- add sample size or research-object details
+
+Do not invent any facts, numbers, authors, or references.
